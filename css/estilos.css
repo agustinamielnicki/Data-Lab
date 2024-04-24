@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color:#f2e9e4;
+}
+
+h1{
+    text-align:center;
+    color:#B3001B;
+    font-family:"Bodoni Moda";
+    font-weight:800;
+    font-size:40px;
+    text-transform:capitalize;
+}
+
+h2{
+    text-align:center;
+    color:#B3001B;
+    font-family:"Jost";
+    font-weight:300;
+    font-size:25px;
+    text-decoration:dotted underline
+}
+
+h3{
+    color:#8C2F39;
+    font-family:"Jost";
+    font-weight:600;
+    font-size:17px;
+}
+
+h4{
+    color:#B3001B;
+    font-family:"Jost";
+    font-weight:500;
+    font-size:14px;
+}
+
+h5{
+    color:#8C2F39;
+    font-family:"Jost";
+    font-weight:550;
+    font-size:17px
+}
+
+p{
+    color:#171614;
+    font-family:"Jost";
+    font-weight:300;
+    font-size:16px;
+}
+
+
+.miSubrayado{
+    text-decoration:dotted underline;
+}
+
+
+a:link{
+    text-decoration:none;
+    color:#B3001B;
+}
+
+a:visited{
+    color:#8C2F39;
+}
+
+a:hover{
+    text-decoration:dotted underline;
+}
+
+a:active{
+    color:#171614;
+}
+
+img{
+    border-radius:30px;
+    width:30%;
+    display:block;
+    margin:auto;
+}
